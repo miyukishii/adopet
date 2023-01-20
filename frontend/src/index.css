@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Tw Cent MT';
+  src: local('Tw Cent MT'), url(./fonts/tw-cen-mt-6.ttf) format('ttf');
+}
